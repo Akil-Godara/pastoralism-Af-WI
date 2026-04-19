@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host": "localhost",
+    "username": "user",
+    "password": "password",
+    "database_name": "pastoralism"
+  }
+}
